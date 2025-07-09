@@ -1,4 +1,4 @@
-# esphome-bq27220 BQ27220 ESPHome Component
+# ESPHome Component for the Texas Instruments BQ27220 fuel gauge
 
 A clean drop-in ESPHome component for the Texas Instruments BQ27220 fuel gauge, for hackers, tinkerers, and of course — for Dale. 🏁
 
