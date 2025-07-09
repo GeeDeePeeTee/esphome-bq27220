@@ -11,9 +11,7 @@ A clean drop-in ESPHome component for the Texas Instruments BQ27220 fuel gauge, 
 
 ```yaml
 external_components:
-  - source:
-      type: git
-      url: https://github.com/GeeDeePeeTee/esphome-bq27220
+  - source: github://GeeDeePeeTee/esphome-bq27220
     components: [bq27220]
 
 i2c:
