@@ -10,7 +10,7 @@ This is the active development checklist for the ESPHome-compatible `bq27220` fu
 ## Phase 2: Code Hygiene
 -  Move method bodies from `bq27220.h` to `bq27220.cpp` for cleaner interface/implementation separation
 
-## 🛠️ Phase 3: Schema Improvements
+## Phase 3: Schema Improvements
 - Reformat `sensor.py` to use `cv.Required` and `cv.Optional` properly
 - Group sensors logically in schema for easier YAML setup
 
